@@ -1,0 +1,14 @@
+Added Component: Designator=U1(MCP2515_Test)
+Added Pin To Net: NetName=NetU1_1 Pin=U1-1
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-7
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Pin To Net: NetName=VCC-3V3 Pin=U1-9
+Added Pin To Net: NetName=E\X\T\_\I\N\T\ Pin=U1-12
+Added Pin To Net: NetName=SPI_CLK Pin=U1-13
+Added Pin To Net: NetName=SPI_MOSI Pin=U1-14
+Added Pin To Net: NetName=SPI_MISO Pin=U1-15
+Added Pin To Net: NetName=S\P\I\_\C\S\0\ Pin=U1-16
+Added Pin To Net: NetName=NetR1_2 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Member To Class: ClassName=PI_CAN_Interface_v2 Member=Component U1 MCP2515-I/SO

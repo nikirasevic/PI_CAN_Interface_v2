@@ -1,0 +1,87 @@
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=C?(CAPC3216X140N-1206-NoOverlay)
+Added Component: Designator=C?(CAPC3225X100N-1210-NoOverlay)
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=C?(CAPC1608X55N-0603-NoOverlay)
+Added Component: Designator=C?(CAPC3216X140N-1206-NoOverlay)
+Added Component: Designator=C?(CAPC2013X100N-0805-NoOverlay)
+Added Component: Designator=D?(DIOM5127X229N-NoOverlay)
+Added Component: Designator=D?(DIOM5127X229N-NoOverlay)
+Added Component: Designator=J?(HM2X20-NoOverlay)
+Added Component: Designator=L?(XAL7030-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=R?(RESC2013X38N-0805-NOOVERLAY)
+Added Component: Designator=Y?(CRYSTAL SMD-NoOverlay)
+Added Pin To Net: NetName=E\X\T\_\I\N\T\ Pin=J?-22
+Added Net: Name=E\X\T\_\I\N\T\
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-14
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-25
+Added Pin To Net: NetName=GND Pin=J?-30
+Added Pin To Net: NetName=GND Pin=J?-34
+Added Pin To Net: NetName=GND Pin=J?-39
+Added Pin To Net: NetName=GND Pin=L?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_22 Pin=D?-2
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D?-1
+Added Pin To Net: NetName=NetC?_2 Pin=R?-2
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Net: Name=NetU?_1
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=RXD Pin=J?-10
+Added Net: Name=RXD
+Added Pin To Net: NetName=S\P\I\_\C\S\0\ Pin=J?-24
+Added Net: Name=S\P\I\_\C\S\0\
+Added Pin To Net: NetName=SPI_CLK Pin=J?-23
+Added Net: Name=SPI_CLK
+Added Pin To Net: NetName=SPI_MISO Pin=J?-21
+Added Net: Name=SPI_MISO
+Added Pin To Net: NetName=SPI_MOSI Pin=J?-19
+Added Net: Name=SPI_MOSI
+Added Pin To Net: NetName=TXD Pin=J?-8
+Added Net: Name=TXD
+Added Pin To Net: NetName=VCC-3V3 Pin=C?-2
+Added Pin To Net: NetName=VCC-3V3 Pin=C?-2
+Added Net: Name=VCC-3V3
+Added Pin To Net: NetName=VCC-5V Pin=C?-2
+Added Pin To Net: NetName=VCC-5V Pin=J?-2
+Added Pin To Net: NetName=VCC-5V Pin=J?-4
+Added Pin To Net: NetName=VCC-5V Pin=L?-2
+Added Pin To Net: NetName=VCC-5V Pin=R?-2
+Added Net: Name=VCC-5V
+Added Class: Name=PI_CAN_Interface_v2
