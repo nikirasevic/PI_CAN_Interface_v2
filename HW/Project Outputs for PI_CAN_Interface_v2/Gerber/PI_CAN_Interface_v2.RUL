@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: \\cern.ch\dfs\Users\n\nrasevic\Documents\Memri\PI_CAN_Interface_v2\HW\Project Files\PI_CAN_Interface_v2.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

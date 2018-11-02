@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PI_CAN_Interface_v2.GBR   11/2/2018  1:48:09 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.GTS                Top Solder                              
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GBS                Bottom Solder                           
+.GTP                Top Paste                               
+.GTO                Top Overlay                             
+.GBL                Bottom Layer                            
+.GM13               Mechanical 13                           
+.GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
+.GM15               Mechanical 15                           
+------------------------------------------------------------------------------------------

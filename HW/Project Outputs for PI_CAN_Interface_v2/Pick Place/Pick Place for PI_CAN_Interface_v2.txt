@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+\\cern.ch\dfs\Users\n\nrasevic\Documents\Memri\PI_CAN_Interface_v2\HW\Project Outputs for PI_CAN_Interface_v2\Pick Place\Pick Place for PI_CAN_Interface_v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/11/18
+Time:       13:48
+Revision:   785b12e6054bfcc0ed62e3861171a35b02f06818
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer       Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                       
+R?         10k          TopLayer    RESC2013X38N-0805-NOOVERLAY 2128.000      2400.000      0        "RES SMD 10 kOhm 1/8W 0805"       
+C4         100n         TopLayer    CER_0603                    2128.000      2147.000      90       "CAP CER 100n 10V X5R 10% 0603"   
+U1         MCP2515-I/SO TopLayer    SOIC-18                     1970.000      1884.000      0        "IC CAN CONTROLLER W/SPI 18SOIC"  
+J3         00000006     TopLayer    HM1X10                      1119.000      1884.000      270      ""                                
+J2         *            TopLayer    HM1X2                       2524.000      3130.000      180      ""                                
+P3         RJ-11        TopLayer    RJ11-6N-B                   2096.835      2761.929      270      ""                                
+P2         RJ-11        TopLayer    RJ11-6N-B                   1520.835      2761.929      270      ""                                
+L1         10uH         TopLayer    INDUCTOR_SS1260-103MLD      3263.000      2174.500      90       "FIXED IND 10uH 3A"               
+D2         SK34         TopLayer    DO214AC                     2886.000      2999.000      360      "DIODE SCHOTTKY 40V 3A DO214AC"   
+D1         B360B        TopLayer    DO214AC                     2934.000      2437.000      90       "DIODE SCHOTTKY 60V 3A DO214AC"   
+P1         *            TopLayer    PWR_CON                     3162.000      2719.432      0        ""                                
+Y1         16MHz        TopLayer    OSCILATOR                   1498.000      1845.000      90       "Crystal Oscillator"              
+U3         TPS54340     TopLayer    HSOP-8                      2757.000      2535.000      270      "DC-DC Buck Regulator"            
+U4         LM2937-5     TopLayer    SOT223                      3022.000      1458.000      180      "IC REG LINEAR 5V 400MA SOT223-4" 
+U2         SN65HVD230DR TopLayer    SOIC-8                      1954.653      2285.370      0        "IC EMC CAN TRANSCEIVER 8-SOIC"   
+J1         00000005     TopLayer    HM2X20                      2294.000      1152.000      270      ""                                
+LED1       "LED GREEN"  TopLayer    LED_GREEN_0805              1625.000      2330.000      90       "LED GREEN CLEAR 0805 SMD"        
+LED2       "LED GREEN"  TopLayer    LED_GREEN_0805              1470.997      2332.997      90       "LED GREEN CLEAR 0805 SMD"        
+LED3       "LED GREEN"  TopLayer    LED_GREEN_0805              2450.000      1552.000      180      "LED GREEN CLEAR 0805 SMD"        
+LED4       "LED GREEN"  TopLayer    LED_GREEN_0805              2449.000      1435.000      180      "LED GREEN CLEAR 0805 SMD"        
+LED5       "LED RED"    TopLayer    LED_RED_0805                2933.000      3165.000      180      "LED RED 0805"                    
+R10        1k           BottomLayer RESC2013X38N-0805-NOOVERLAY 1625.000      2330.000      180      "RES SMD 1 kOhm 1/8W 0805"        
+R11        1k           BottomLayer RESC2013X38N-0805-NOOVERLAY 1470.997      2332.997      180      "RES SMD 1 kOhm 1/8W 0805"        
+R12        1k           BottomLayer RESC2013X38N-0805-NOOVERLAY 2446.000      1552.000      270      "RES SMD 1 kOhm 1/8W 0805"        
+R13        1k           BottomLayer RESC2013X38N-0805-NOOVERLAY 2445.000      1434.000      270      "RES SMD 1 kOhm 1/8W 0805"        
+R14        1k           TopLayer    RESC2013X38N-0805-NOOVERLAY 2790.000      3166.000      270      "RES SMD 1 kOhm 1/8W 0805"        
+C1         20pF         TopLayer    CER_0603                    1649.000      1771.000      180      "CAP CER 20p 0805"                
+C2         20pF         TopLayer    CER_0603                    1648.000      1921.000      0        "CAP CER 20p 0805"                
+C3         100n         TopLayer    CER_0603                    1774.000      2290.000      0        "CAP CER 100n 10V X5R 10% 0603"   
+R1         4.7k         TopLayer    RESC2013X38N-0805-NOOVERLAY 2240.000      2075.000      180      "RES SMD 4.7 kOhm 1/8W 0805"      
+C5         100n         TopLayer    CER_0603                    2933.000      2642.000      90       "CAP CER 100n 10V X5R 10% 0603"   
+R2         330k         TopLayer    RESC2013X38N-0805-NOOVERLAY 2706.000      2754.000      180      "RES SMD 330 kOhm 1/8W 0805"      
+R4         56k          TopLayer    RESC2013X38N-0805-NOOVERLAY 2526.000      2603.000      180      "RES SMD 56 kOhm 1/8W 0805"       
+R5         160k         TopLayer    RESC2013X38N-0805-NOOVERLAY 2607.000      2603.000      180      "RES SMD 160 kOhm 1/8W 0805"      
+R9         120R         TopLayer    RESC2013X38N-0805-NOOVERLAY 2476.000      2995.000      180      "RES SMD 120 Ohm 1/8W 0805"       
+C6         2.2uF        TopLayer    CER_1210                    2843.992      2875.883      270      "CAP CER 2.2u X7R 100V 20% 1210"  
+C7         2.2uF        TopLayer    CER_1210                    2843.992      2745.883      270      "CAP CER 2.2u X7R 100V 20% 1210"  
+C8         100uF        TopLayer    CER_1210                    3074.008      1767.117      90       "CAP CER 100u X5R 6.3V 10% 1210"  
+C9         15n          TopLayer    CER_0603                    2792.000      2277.000      270      "CAP CER 15n 0603"                
+C10        68p          TopLayer    CER_0603                    2792.000      2355.000      270      "CAP CER 68p 0603"                
+C11        10uF         TopLayer    TANT_1210                   2805.117      1505.992      0        "CAP TANT 10u"                    
+C12        100n         TopLayer    CER_0603                    3196.000      1518.000      180      "CAP CER 100n 10V X5R 10% 0603"   
+R3         51k          TopLayer    RESC2013X38N-0805-NOOVERLAY 2608.000      2258.000      0        "RES SMD 51 kOhm 1/8W 0805"       
+R6         15k          TopLayer    RESC2013X38N-0805-NOOVERLAY 2686.000      2317.000      180      "RES SMD 15 kOhm 1/8W 0805"       
+R7         9.1k         TopLayer    RESC2013X38N-0805-NOOVERLAY 2608.000      2399.000      0        "RES SMD 9.1 kOhm 1/8W 0805"      
+R8         620R         TopLayer    RESC2013X38N-0805-NOOVERLAY 2528.000      2460.000      0        "RES SMD 620 Ohm 1/8W 0805"       

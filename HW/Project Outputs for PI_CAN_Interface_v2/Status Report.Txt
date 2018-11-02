@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [PI_CAN_Interface_v2.PcbDoc]
+   Generated File[PI_CAN_Interface_v2.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:48:44 PM On 11/2/2018
